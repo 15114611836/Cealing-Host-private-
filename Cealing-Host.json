@@ -21,7 +21,7 @@
     [["*rutube.ru"],"","109.238.90.239"],
     
     [["gemini.google.com"],"","47.102.115.14"],
-    [["#*google*","$*google.com","*gstatic.com","*youtube.com","*youtu.be","*.ggpht.com","i.ytimg.com","*youtube-nocookie.com","*blogger.com"],"g.cn","34.49.133.3"],
+    [["*google.com","*gstatic.com","*youtube.com","*youtu.be","*.ggpht.com","i.ytimg.com","*youtube-nocookie.com","*blogger.com"],"g.cn","34.49.133.3"],
     [["external-content.duckduckgo.com"],"","20.43.160.189"],
     [["*duckduckgo.com"],"","20.43.161.105"],
     [["*startpage.com"],"","67.63.58.139"],
