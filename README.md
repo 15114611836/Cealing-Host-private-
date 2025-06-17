@@ -1,1 +1,1 @@
-![123](https://www.baidu.com)
+[123](https://www.baidu.com)
